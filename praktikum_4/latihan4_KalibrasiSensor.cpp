@@ -1,7 +1,7 @@
 #include <iostream>
-#include <fstream> // Pustaka akses file
-#include <string>  // Pustaka teks
-#include <vector>  // Pustaka vector
+#include <fstream> // library akses file
+#include <string>  // library teks
+#include <vector>  // library vector
 
 int main() {
 
